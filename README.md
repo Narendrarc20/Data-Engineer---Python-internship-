@@ -6,7 +6,7 @@ https://rera.odisha.gov.in/projects/project-list.
 **# pip install requirements:**
       pip install selenium pandas
 
-**# To run this script we it need chromeDriver instalation**
+**# To run this script it need chromeDriver installation**
 
 **#to store the data:**
       all the datav will be store d in the CSV file name as "rera.project.csv".
